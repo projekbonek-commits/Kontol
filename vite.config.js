@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Ppp/', // Ganti 'Ppp' dengan nama repo Anda
+  base: '/Kontol/', // Ganti 'Ppp' dengan nama repo Anda
 })
